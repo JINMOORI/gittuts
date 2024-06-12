@@ -5,7 +5,6 @@ public class file {
         m.sayHello();
         m.addnumbers(65,75);
         m.addnumbers(100,450);
-        m.addnumbers(78,82);
         int k=m.multiplynumbers(8,9);
         
         System.out.println(k);
